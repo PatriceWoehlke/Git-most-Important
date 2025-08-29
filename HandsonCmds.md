@@ -30,6 +30,12 @@ Another way to phrase it could be:
 
 chore: initialize repo with base files
 
+- remove git by running: 
+
+```
+cd /path/to/folder
+rm -rf .git
+```
 ---
 # 01 – Basic Workflow
 
