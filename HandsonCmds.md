@@ -30,7 +30,13 @@ Another way to phrase it could be:
 
 chore: initialize repo with base files
 
-- remove git by running: 
+- I check if it's been initialized by running 
+
+```
+ls -a
+```
+
+- I remove git by running: 
 
 ```
 cd /path/to/folder
